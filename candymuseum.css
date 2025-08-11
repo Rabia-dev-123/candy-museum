@@ -2,7 +2,7 @@ body{
     background: #F5D9D5;
     font-family: "Nunito" , sans-serif;
 }
-.navbar-light .navbar-brand
+.navbar-dark .navbar-brand
  {
     color: rgb(234, 28, 44) !important;
     font-size: 1.5rem;
@@ -15,15 +15,20 @@ body{
         font-size: 1.5rem ;
         text-transform: uppercase;
     }
-.navbar-light .nav-link{
+.navbar-dark .nav-link{
  color: white  !important ;
 }
- .navbar-light .nav-link:hover{
+ .navbar-dark .nav-link:hover{
  color: rgb(234, 28, 44) !important;
 }
 h1{
     font-size: 4.0rem;
     font-weight: 100;
+}
+h2{
+   color: #EA1C2C;
+   font-weight: 100;
+   font-size: 2.5rem;
 }
 span{
     color: rgb(234, 28, 44);
