@@ -36,3 +36,9 @@ span{
     margin-top: 100px;
     margin-bottom: 100px;
 }
+.blurb p {
+    color: #f498b8;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 2;
+}
